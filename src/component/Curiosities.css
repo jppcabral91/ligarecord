@@ -1,0 +1,35 @@
+/* Curiosities.css */
+
+/* Container styling */
+.curiosities-container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for 3D effect */
+  }
+  
+  /* Title styling */
+  .curiosities-container h1 {
+    color: #009879;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Individual curiosities items */
+  .curiosities-item {
+    font-size: 18px;
+    margin-bottom: 15px;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-left: 4px solid #009879;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .curiosities-item strong {
+    color: #009879;
+  }
+  

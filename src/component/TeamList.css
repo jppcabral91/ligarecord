@@ -1,0 +1,105 @@
+/* TeamList.css */
+
+/* Container styling for the whole TeamList section */
+.teamlist-container {
+    margin: 20px auto;
+    max-width: 1000px;  /* Set a max-width for the container */
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for 3D effect */
+  }
+  
+  /* Global heading */
+  .teamlist-container h1 {
+    color: #009879;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Round and global headings */
+  .teamlist-container h2 {
+    color: #333;
+    margin-bottom: 10px;
+    text-align: left;
+    border-left: 4px solid #009879;
+    padding-left: 10px;
+  }
+  
+  /* Table container for better organization */
+  .teamlist-table-container {
+    margin-bottom: 20px;
+    overflow-x: auto; /* Enable horizontal scrolling for small screens */
+  }
+  
+  /* Table Styling */
+  .teamlist-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;  /* Reduced font size to make the table more compact */
+    table-layout: auto; /* Allows flexible column widths */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .teamlist-table th, .teamlist-table td {
+    padding: 8px 12px;  /* Reduced padding to make the table more compact */
+    border: 1px solid #dddddd;
+    text-align: center;
+    white-space: nowrap; /* Prevents text wrapping */
+  }
+  
+  .teamlist-table th {
+    background-color: #009879;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .teamlist-table td {
+    background-color: #f9f9f9;
+    transition: background-color 0.3s ease;
+  }
+  
+  .teamlist-table tr:nth-child(even) td {
+    background-color: #f1f1f1;
+  }
+  
+  .teamlist-table tr:hover td {
+    background-color: #e3e3e3;
+  }
+  
+  .teamlist-table tr:last-child td {
+    border-bottom: 2px solid #009879;
+  }
+  
+  /* Sticky Table Headers for scrolling */
+  .teamlist-table thead th {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+  
+  /* Scrollbar Styling */
+  .teamlist-table-container::-webkit-scrollbar {
+    height: 8px;
+  }
+  
+  .teamlist-table-container::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+  }
+  
+  .teamlist-table-container::-webkit-scrollbar-thumb {
+    background-color: #009879;
+    border-radius: 10px;
+  }
+  
+  /* Responsive Design for Smaller Screens */
+  @media (max-width: 768px) {
+    .teamlist-table {
+      font-size: 12px; /* Further reduce font size on smaller screens */
+    }
+  
+    .teamlist-table th, .teamlist-table td {
+      padding: 6px 8px;  /* Further reduce padding on smaller screens */
+    }
+  }
+  

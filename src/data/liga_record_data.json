@@ -1,0 +1,2852 @@
+[
+    {
+        "round": "Ronda 30",
+        "teams": [
+            {
+                "pontosTotal": 1557,
+                "treinador": "TJBS",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 78,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1767,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 72,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1629,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 70,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1591,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 68,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1635,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 66,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1800,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 65,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1591,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 65,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1634,
+                "treinador": "filipe_simao7",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 58,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1614,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 51,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 29",
+        "teams": [
+            {
+                "pontosTotal": 1715,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 61,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1556,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 59,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1539,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 59,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1675,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 58,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1459,
+                "treinador": "TJBS",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 52,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1503,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 48,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1549,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 47,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1543,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 40,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1506,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 34,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 28",
+        "teams": [
+            {
+                "pontosTotal": 1503,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 66,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1654,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 61,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1480,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 60,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1617,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 59,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1455,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 58,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1502,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 51,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1407,
+                "treinador": "TJBS",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 48,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1472,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 46,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1497,
+                "treinador": "filipe_simao7",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 41,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 27",
+        "teams": [
+            {
+                "pontosTotal": 1558,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 57,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1426,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 49,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1451,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 48,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1456,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 47,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1593,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 46,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1420,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 46,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1397,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 46,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1359,
+                "treinador": "TJBS",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 46,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1437,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 43,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 26",
+        "teams": [
+            {
+                "pontosTotal": 1501,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 74,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1394,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 68,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1403,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 66,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1374,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 66,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1547,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 65,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1351,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 62,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1409,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 61,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1377,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 50,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1313,
+                "treinador": "TJBS",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 47,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 25",
+        "teams": [
+            {
+                "pontosTotal": 1289,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 57,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1427,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 46,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1327,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 46,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1337,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 43,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1482,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 40,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1326,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 40,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1348,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 34,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1308,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 34,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1266,
+                "treinador": "TJBS",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 31,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 24",
+        "teams": [
+            {
+                "pontosTotal": 1381,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 51,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1294,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 47,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1232,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 47,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1274,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 39,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1314,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 35,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1442,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 32,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1235,
+                "treinador": "TJBS",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 32,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1281,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 30,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1286,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 29,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 23",
+        "teams": [
+            {
+                "pontosTotal": 1279,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 62,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1410,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 61,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1247,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 57,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1203,
+                "treinador": "TJBS",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 53,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1257,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 49,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1185,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 49,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1235,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 47,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1330,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 45,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1251,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 42,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 22",
+        "teams": [
+            {
+                "pontosTotal": 1190,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 103,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1349,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 101,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1285,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 96,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1217,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 86,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1188,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 81,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1208,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 80,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1150,
+                "treinador": "TJBS",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 79,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1136,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 74,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1209,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 71,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 21",
+        "teams": [
+            {
+                "pontosTotal": 1128,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 60,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1087,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 60,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1107,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 56,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1062,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 54,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1071,
+                "treinador": "TJBS",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 52,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1248,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 51,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1189,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 51,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1138,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 51,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1131,
+                "treinador": "filipe_simao7",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 45,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 20",
+        "teams": [
+            {
+                "pontosTotal": 1087,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 87,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1051,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 66,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1138,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 60,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1008,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 58,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1197,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 55,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1086,
+                "treinador": "filipe_simao7",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 43,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1027,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 41,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 1019,
+                "treinador": "TJBS",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 41,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 1068,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 32,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 19",
+        "teams": [
+            {
+                "pontosTotal": 1142,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 61,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 986,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 55,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 1078,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 54,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 978,
+                "treinador": "TJBS",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 47,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1043,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 42,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 1036,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 38,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 1000,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 37,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 950,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 37,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 985,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 26,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 18",
+        "teams": [
+            {
+                "pontosTotal": 1081,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 69,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 1024,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 62,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 959,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 53,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 998,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 52,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 1001,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 47,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 931,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 44,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 931,
+                "treinador": "TJBS",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 42,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 913,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 41,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 963,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 40,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 17",
+        "teams": [
+            {
+                "pontosTotal": 946,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 74,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 872,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 57,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 962,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 56,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 1012,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 54,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 954,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 52,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 923,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 49,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 906,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 43,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 887,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 41,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 889,
+                "treinador": "TJBS",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 36,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 16",
+        "teams": [
+            {
+                "pontosTotal": 902,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 57,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 958,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 56,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 874,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 51,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 846,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 47,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 872,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 43,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 853,
+                "treinador": "TJBS",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 42,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 815,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 40,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 906,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 38,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 863,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 37,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 15",
+        "teams": [
+            {
+                "pontosTotal": 855,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 96,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 823,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 93,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 764,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 90,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 845,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 85,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 821,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 83,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 799,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 78,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 902,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 76,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 812,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 71,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 808,
+                "treinador": "TJBS",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 69,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 14",
+        "teams": [
+            {
+                "pontosTotal": 730,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 92,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 739,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 75,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 826,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 72,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 721,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 72,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 738,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 71,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 674,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 71,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 741,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 67,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 760,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 62,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 759,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 61,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 13",
+        "teams": [
+            {
+                "pontosTotal": 667,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 71,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 664,
+                "treinador": "TJBS",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 65,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 754,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 64,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 649,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 61,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 603,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 57,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 674,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 56,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 698,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 55,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 698,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 53,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 638,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 52,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 12",
+        "teams": [
+            {
+                "pontosTotal": 690,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 55,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 643,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 45,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 586,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 45,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 588,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 44,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 596,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 42,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 618,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 39,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 599,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 38,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 645,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 37,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 546,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 26,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 11",
+        "teams": [
+            {
+                "pontosTotal": 598,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 74,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 579,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 72,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 635,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 70,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 544,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 70,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 561,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 67,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 554,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 66,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 608,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 63,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 541,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 60,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 520,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 53,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 10",
+        "teams": [
+            {
+                "pontosTotal": 481,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 101,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 488,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 64,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 565,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 59,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 545,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 56,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 474,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 54,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 524,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 53,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 494,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 48,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 467,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 48,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 507,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 44,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 9",
+        "teams": [
+            {
+                "pontosTotal": 424,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 50,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 463,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 49,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 419,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 44,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 489,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 42,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 471,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 42,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 446,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 41,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 506,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 37,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 420,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 36,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 380,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 23,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 8",
+        "teams": [
+            {
+                "pontosTotal": 469,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 82,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 447,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 81,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 375,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 78,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 429,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 76,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 414,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 71,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 357,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 64,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 405,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 63,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 384,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 57,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 374,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 48,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 7",
+        "teams": [
+            {
+                "pontosTotal": 297,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 53,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 342,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 48,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 387,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 47,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 366,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 47,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 327,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 47,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 343,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 43,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 353,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 38,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 326,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 36,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 293,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 33,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 6",
+        "teams": [
+            {
+                "pontosTotal": 315,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 61,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 340,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 49,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 300,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 38,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 290,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 38,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 244,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 36,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 294,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 33,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 319,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 32,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 260,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 30,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 280,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 27,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 5",
+        "teams": [
+            {
+                "pontosTotal": 261,
+                "treinador": "TJBS",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 63,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 253,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 60,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 291,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 56,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 262,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 55,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 252,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 51,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 287,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 49,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 254,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 49,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 230,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 39,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 208,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 39,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 4",
+        "teams": [
+            {
+                "pontosTotal": 238,
+                "treinador": "filipe_simao7",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 64,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 191,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 64,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 205,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 53,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 201,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 53,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 198,
+                "treinador": "TJBS",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 50,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 235,
+                "treinador": "pimentel31",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 49,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 207,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 46,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 169,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 38,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 193,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 34,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 3",
+        "teams": [
+            {
+                "pontosTotal": 161,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 58,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 186,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 56,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 152,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 51,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 127,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 50,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 174,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 46,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 148,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": true,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 45,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 131,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 43,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 159,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 42,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 148,
+                "treinador": "TJBS",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 39,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 2",
+        "teams": [
+            {
+                "pontosTotal": 128,
+                "treinador": "filipe_simao7",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 69,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 130,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 60,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 117,
+                "treinador": "N/A",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 58,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 109,
+                "treinador": "TJBS",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 54,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 103,
+                "treinador": "N/A",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 52,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 103,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 48,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 88,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 44,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 101,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 43,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 77,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 23,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    },
+    {
+        "round": "Ronda 1",
+        "teams": [
+            {
+                "pontosTotal": 70,
+                "treinador": "pimentel31",
+                "posicao": 1,
+                "paid": false,
+                "equipa": "Retour du champion",
+                "pontosRonda": 70,
+                "roundPosition": 1,
+                "paymentDue": 1
+            },
+            {
+                "pontosTotal": 59,
+                "treinador": "N/A",
+                "posicao": 2,
+                "paid": false,
+                "equipa": "Domador de papagaios",
+                "pontosRonda": 59,
+                "roundPosition": 2,
+                "paymentDue": 2
+            },
+            {
+                "pontosTotal": 59,
+                "treinador": "filipe_simao7",
+                "posicao": 3,
+                "paid": false,
+                "equipa": "DI MAGIA",
+                "pontosRonda": 59,
+                "roundPosition": 3,
+                "paymentDue": 3
+            },
+            {
+                "pontosTotal": 58,
+                "treinador": "N/A",
+                "posicao": 4,
+                "paid": false,
+                "equipa": "Azinhaga 94",
+                "pontosRonda": 58,
+                "roundPosition": 4,
+                "paymentDue": 4
+            },
+            {
+                "pontosTotal": 55,
+                "treinador": "TJBS",
+                "posicao": 5,
+                "paid": false,
+                "equipa": "Victory Squad",
+                "pontosRonda": 55,
+                "roundPosition": 5,
+                "paymentDue": 5
+            },
+            {
+                "pontosTotal": 55,
+                "treinador": "N/A",
+                "posicao": 6,
+                "paid": false,
+                "equipa": "Al-Tiparó Baile FC",
+                "pontosRonda": 55,
+                "roundPosition": 6,
+                "paymentDue": 6
+            },
+            {
+                "pontosTotal": 54,
+                "treinador": "N/A",
+                "posicao": 7,
+                "paid": false,
+                "equipa": "Arregaça Club",
+                "pontosRonda": 54,
+                "roundPosition": 7,
+                "paymentDue": 7
+            },
+            {
+                "pontosTotal": 51,
+                "treinador": "N/A",
+                "posicao": 8,
+                "paid": false,
+                "equipa": "115 fc",
+                "pontosRonda": 51,
+                "roundPosition": 8,
+                "paymentDue": 8
+            },
+            {
+                "pontosTotal": 44,
+                "treinador": "N/A",
+                "posicao": 9,
+                "paid": false,
+                "equipa": "Vila Pouca FC ",
+                "pontosRonda": 44,
+                "roundPosition": 9,
+                "paymentDue": 9
+            }
+        ]
+    }
+]
