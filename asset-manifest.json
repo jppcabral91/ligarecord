@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ligarecord/static/css/main.49f06ade.css",
-    "main.js": "/ligarecord/static/js/main.bb24e8df.js",
+    "main.js": "/ligarecord/static/js/main.24b1488c.js",
     "static/js/453.93ac340d.chunk.js": "/ligarecord/static/js/453.93ac340d.chunk.js",
     "index.html": "/ligarecord/index.html",
     "main.49f06ade.css.map": "/ligarecord/static/css/main.49f06ade.css.map",
-    "main.bb24e8df.js.map": "/ligarecord/static/js/main.bb24e8df.js.map",
+    "main.24b1488c.js.map": "/ligarecord/static/js/main.24b1488c.js.map",
     "453.93ac340d.chunk.js.map": "/ligarecord/static/js/453.93ac340d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49f06ade.css",
-    "static/js/main.bb24e8df.js"
+    "static/js/main.24b1488c.js"
   ]
 }
