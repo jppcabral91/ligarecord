@@ -28,7 +28,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Liga Privada</h1>
         <h2>Papolas Saltitantes V3.0</h2>
   {/* Toggle Button to switch between Payment Summary and Curiosities */}
   <button onClick={togglePaymentCuriosityView}>
