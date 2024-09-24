@@ -1,59 +1,56 @@
-{
-  "round": "Global Ranking",
-  "teams": [
-    {
-      "posicao": 1,
-      "equipa": "PAVLIDIS",
-      "treinador": "filipe_simao7",
-      "pontosTotal": 150
-    },
-    {
-      "posicao": 2,
-      "equipa": "Taveiro Em Chamas FC",
-      "treinador": "Utilizador Registado",
-      "pontosTotal": 136
-    },
-    {
-      "posicao": 3,
-      "equipa": "Infantário do quenda",
-      "treinador": "Utilizador Registado",
-      "pontosTotal": 128
-    },
-    {
-      "posicao": 4,
-      "equipa": "Olhem Para Cima",
-      "treinador": "TJBS",
-      "pontosTotal": 126
-    },
-    {
-      "posicao": 5,
-      "equipa": "Soldados sem fortuna",
-      "treinador": "Utilizador Registado",
-      "pontosTotal": 124
-    },
-    {
-      "posicao": 6,
-      "equipa": "Filho da dolores",
-      "treinador": "Utilizador Registado",
-      "pontosTotal": 123
-    },
-    {
-      "posicao": 7,
-      "equipa": "Domador de Papagaios 3.0",
-      "treinador": "Utilizador Registado",
-      "pontosTotal": 123
-    },
-    {
-      "posicao": 8,
-      "equipa": "A Turma do Martim FC",
-      "treinador": "Utilizador Registado",
-      "pontosTotal": 123
-    },
-    {
-      "posicao": 9,
-      "equipa": "Retour du champion",
-      "treinador": "pimentel31",
-      "pontosTotal": 122
-    }
-  ]
-}
+[
+  {
+    "equipa": "PAVLIDIS",
+    "pontosTotal": 150,
+    "treinador": "filipe_simao7",
+    "posicao": 1
+  },
+  {
+    "equipa": "Taveiro Em Chamas FC",
+    "pontosTotal": 136,
+    "treinador": "Utilizador Registado",
+    "posicao": 2
+  },
+  {
+    "equipa": "Infantário do quenda",
+    "pontosTotal": 128,
+    "treinador": "Utilizador Registado",
+    "posicao": 3
+  },
+  {
+    "equipa": "Olhem Para Cima",
+    "pontosTotal": 126,
+    "treinador": "TJBS",
+    "posicao": 4
+  },
+  {
+    "equipa": "Soldados sem fortuna",
+    "pontosTotal": 124,
+    "treinador": "Utilizador Registado",
+    "posicao": 5
+  },
+  {
+    "equipa": "Filho da dolores",
+    "pontosTotal": 123,
+    "treinador": "Utilizador Registado",
+    "posicao": 6
+  },
+  {
+    "equipa": "Domador de Papagaios 3.0",
+    "pontosTotal": 123,
+    "treinador": "Utilizador Registado",
+    "posicao": 7
+  },
+  {
+    "equipa": "A Turma do Martim FC",
+    "pontosTotal": 123,
+    "treinador": "Utilizador Registado",
+    "posicao": 8
+  },
+  {
+    "equipa": "Retour du champion",
+    "pontosTotal": 122,
+    "treinador": "pimentel31",
+    "posicao": 9
+  }
+]
