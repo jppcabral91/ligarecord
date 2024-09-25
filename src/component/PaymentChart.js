@@ -19,13 +19,23 @@ ChartJS.register(
   Legend
 );
 
+// Define the calculatePayment function
+const calculatePayment = (rank) => {
+  if (rank === 1 || rank === 2) return 0;        // 1st and 2nd don't pay
+  if (rank === 3) return 1.5;                    // 3rd pays 1.5€
+  if (rank >= 4 && rank <= 8) return 2.5;        // 4th to 8th pay 2.5€
+  if (rank === 9) return 4;                      // 9th pays 4€
+  return 0;  // Default case (shouldn't happen, but safe fallback)
+};
+
 const PaymentChart = ({ data }) => {
   const teamPayments = data.reduce((acc, round) => {
     round.teams.forEach((team) => {
       if (!acc[team.equipa]) {
         acc[team.equipa] = 0;
       }
-      acc[team.equipa] += team.paymentDue;  // Accumulating payments over all rounds
+      // Calculate the payment due dynamically
+      acc[team.equipa] += calculatePayment(team.roundPosition);
     });
     return acc;
   }, {});

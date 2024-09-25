@@ -1,31 +1,28 @@
 import React from 'react';
-import './PaymentSummary.css'; // Import the CSS file for styling
+import './PaymentSummary.css'; // Keep the existing CSS
 
-const PaymentSummary = ({ jornadaData }) => {
-  // Helper function to accumulate payments
-  const calculateTotalPayments = (data) => {
-    const totalPayments = {};
+// Calculate payment based on position
+const calculatePayment = (rank) => {
+  if (rank === 1 || rank === 2) return 0;        // 1st and 2nd don't pay
+  if (rank === 3) return 1.5;                    // 3rd pays 1.5€
+  if (rank >= 4 && rank <= 8) return 2.5;        // 4th to 8th pay 2.5€
+  if (rank === 9) return 4;                      // 9th pays 4€
+  return 0;  // Default case (safe fallback)
+};
 
-    // Iterating over each jornada to accumulate payments
-    data.forEach((round) => {
-      round.teams.forEach((team) => {
-        if (!totalPayments[team.equipa]) {
-          totalPayments[team.equipa] = 0;
-        }
-        totalPayments[team.equipa] += team.paymentDue;
-      });
+const PaymentSummary = ({ jornadaData, globalData }) => {
+  const totalPayments = {};
+
+  // Iterate through all rounds to calculate the payments
+  jornadaData.forEach((round) => {
+    round.teams.forEach((team) => {
+      if (!totalPayments[team.equipa]) {
+        totalPayments[team.equipa] = 0;
+      }
+      // Add the payment based on their round position using the new logic
+      totalPayments[team.equipa] += calculatePayment(team.roundPosition);
     });
-
-    return totalPayments;
-  };
-
-  // Get the total payments
-  const totalPayments = calculateTotalPayments(jornadaData);
-
-  // If no data is available, show a message
-  if (Object.keys(totalPayments).length === 0) {
-    return <p> Algo.</p>;
-  }
+  });
 
   return (
     <div className="payment-summary-container">
@@ -34,14 +31,16 @@ const PaymentSummary = ({ jornadaData }) => {
         <thead>
           <tr>
             <th>Equipa</th>
+            <th>Total Pontos</th>
             <th>Total Pago (€)</th>
           </tr>
         </thead>
         <tbody>
-          {Object.keys(totalPayments).map((teamName, index) => (
+          {globalData.map((team, index) => (
             <tr key={index}>
-              <td>{teamName}</td>
-              <td>{totalPayments[teamName].toLocaleString('pt-PT', { minimumFractionDigits: 2 })} €</td>
+              <td>{team.equipa}</td>
+              <td>{team.pontosTotal}</td> {/* Display total points globally */}
+              <td>{totalPayments[team.equipa]?.toFixed(2)} €</td> {/* Total payment formatted */}
             </tr>
           ))}
         </tbody>

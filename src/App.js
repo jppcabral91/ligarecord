@@ -36,7 +36,7 @@ function App() {
 
         {/* Conditionally render the Payment Summary or Curiosities based on the toggle */}
         {showPaymentSummary ? (
-          <PaymentSummary jornadaData={jornadaData} />
+          <PaymentSummary jornadaData={jornadaData} globalData={globalData}/>
         ) : (
           <Curiosities jornadaData={jornadaData} />
         )}

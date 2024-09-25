@@ -6,132 +6,115 @@
         "equipa": "PAVLIDIS",
         "treinador": "filipe_simao7",
         "pontosRonda": 65,
-        "roundPosition": 1,
-        "paymentDue": 1
+        "roundPosition": 1
       },
       {
         "equipa": "Filho da dolores",
         "treinador": "Utilizador Registado",
         "pontosRonda": 61,
-        "roundPosition": 2,
-        "paymentDue": 2
+        "roundPosition": 2
       },
       {
-        "equipa": "Infant\u00e1rio do quenda",
+        "equipa": "Infantário do quenda",
         "treinador": "Utilizador Registado",
         "pontosRonda": 60,
-        "roundPosition": 3,
-        "paymentDue": 3
+        "roundPosition": 3
       },
       {
         "equipa": "Olhem Para Cima",
         "treinador": "TJBS",
         "pontosRonda": 59,
-        "roundPosition": 4,
-        "paymentDue": 4
+        "roundPosition": 4
       },
       {
         "equipa": "Domador de Papagaios 3.0",
         "treinador": "Utilizador Registado",
         "pontosRonda": 56,
-        "roundPosition": 5,
-        "paymentDue": 5
+        "roundPosition": 5
       },
       {
         "equipa": "Taveiro Em Chamas FC",
         "treinador": "Utilizador Registado",
         "pontosRonda": 55,
-        "roundPosition": 6,
-        "paymentDue": 6
+        "roundPosition": 6
       },
       {
         "equipa": "Soldados sem fortuna",
         "treinador": "Utilizador Registado",
         "pontosRonda": 54,
-        "roundPosition": 7,
-        "paymentDue": 7
+        "roundPosition": 7
       },
       {
         "equipa": "A Turma do Martim FC",
         "treinador": "Utilizador Registado",
         "pontosRonda": 53,
-        "roundPosition": 8,
-        "paymentDue": 8
+        "roundPosition": 8
       },
       {
         "equipa": "Retour du champion",
         "treinador": "pimentel31",
         "pontosRonda": 49,
-        "roundPosition": 9,
-        "paymentDue": 9
+        "roundPosition": 9
       }
     ]
   },
+
   {
-    "round": "Ronda 2",
+    "jornada": "Ronda 2",
     "teams": [
       {
         "roundPosition": 1,
         "equipa": "PAVLIDIS",
         "treinador": "filipe_simao7",
-        "pontosRonda": 85,
-        "paymentDue": 1
+        "pontosRonda": 85
       },
       {
         "roundPosition": 2,
         "equipa": "Taveiro Em Chamas FC",
         "treinador": "Utilizador Registado",
-        "pontosRonda": 81,
-        "paymentDue": 2
+        "pontosRonda": 81
       },
       {
         "roundPosition": 3,
         "equipa": "Retour du champion",
         "treinador": "pimentel31",
-        "pontosRonda": 73,
-        "paymentDue": 3
+        "pontosRonda": 73
       },
       {
         "roundPosition": 4,
         "equipa": "Soldados sem fortuna",
         "treinador": "Utilizador Registado",
-        "pontosRonda": 70,
-        "paymentDue": 4
+        "pontosRonda": 70
       },
       {
         "roundPosition": 5,
         "equipa": "A Turma do Martim FC",
         "treinador": "Utilizador Registado",
-        "pontosRonda": 70,
-        "paymentDue": 5
+        "pontosRonda": 70
       },
       {
         "roundPosition": 6,
         "equipa": "Infantário do quenda",
         "treinador": "Utilizador Registado",
-        "pontosRonda": 68,
-        "paymentDue": 6
+        "pontosRonda": 68
       },
       {
         "roundPosition": 7,
         "equipa": "Domador de Papagaios 3.0",
         "treinador": "Utilizador Registado",
-        "pontosRonda": 67,
-        "paymentDue": 7
+        "pontosRonda": 67
       },
       {
         "roundPosition": 8,
         "equipa": "Olhem Para Cima",
         "treinador": "TJBS",
-        "pontosRonda": 67,
-        "paymentDue": 8
+        "pontosRonda": 67
       },
       {
         "roundPosition": 9,
         "equipa": "Filho da dolores",
         "treinador": "Utilizador Registado",
-        "pontosRonda": 62,
-        "paymentDue": 9
+        "pontosRonda": 62
       }
     ]
   }

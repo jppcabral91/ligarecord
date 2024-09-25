@@ -1,35 +1,53 @@
 /* Curiosities.css */
 
-/* Container styling */
+/* Container styling for the curiosities section */
 .curiosities-container {
-    margin: 20px auto;
-    max-width: 800px;
-    padding: 20px;
-    background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for 3D effect */
-  }
-  
-  /* Title styling */
-  .curiosities-container h1 {
-    color: #009879;
-    text-align: center;
-    margin-bottom: 20px;
-    font-size: 24px;
-    font-weight: bold;
-  }
-  
-  /* Individual curiosities items */
+  margin: 20px auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for 3D effect */
+}
+
+/* Title styling */
+.curiosities-container h1 {
+  color: #009879;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Individual curiosities items */
+.curiosities-item {
+  font-size: 18px;
+  margin-bottom: 15px;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-left: 4px solid #009879;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease; /* Transition for hover effect */
+}
+
+/* Strong element styling */
+.curiosities-item strong {
+  color: #009879;
+}
+
+/* Hover effect for each curiosities item */
+.curiosities-item:hover {
+  background-color: #f1f1f1; /* Slightly darker background on hover */
+}
+
+/* Media query for responsive design */
+@media (max-width: 768px) {
   .curiosities-item {
-    font-size: 18px;
-    margin-bottom: 15px;
-    background-color: #f9f9f9;
-    padding: 10px;
-    border-left: 4px solid #009879;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 16px; /* Slightly smaller text on smaller screens */
+    padding: 8px; /* Reduced padding on smaller screens */
   }
-  
-  .curiosities-item strong {
-    color: #009879;
+
+  .curiosities-container h1 {
+    font-size: 20px; /* Slightly smaller title for mobile */
   }
-  
+}
